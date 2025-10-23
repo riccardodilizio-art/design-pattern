@@ -1,8 +1,8 @@
-package crossPlatformGUI;
+package PlatformGuiElement;
 
-import crossPlatformGUI.factory.Dialog;
-import crossPlatformGUI.factory.HtmlDialog;
-import crossPlatformGUI.factory.WindowsDialog;
+import PlatformGuiElement.factory.Dialog;
+import PlatformGuiElement.factory.HtmlDialog;
+import PlatformGuiElement.factory.WindowsDialog;
 
 public class Demo {
     private static Dialog dialog;

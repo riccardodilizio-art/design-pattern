@@ -1,7 +1,8 @@
-package crossPlatformGUI.factory;
+package PlatformGuiElement.factory;
 
-import crossPlatformGUI.buttons.Button;
-import crossPlatformGUI.buttons.WindowsButton;
+
+import PlatformGuiElement.buttons.Button;
+import PlatformGuiElement.buttons.WindowsButton;
 
 public class WindowsDialog extends Dialog{
     @Override

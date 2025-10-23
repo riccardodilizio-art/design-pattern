@@ -1,4 +1,4 @@
-package crossPlatformGUI.buttons;
+package PlatformGuiElement.buttons;
 
 public interface Button {
     void render();

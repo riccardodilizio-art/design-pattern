@@ -1,4 +1,4 @@
-package crossPlatformGUI.buttons;
+package PlatformGuiElement.buttons;
 
 import javax.swing.*;
 import java.awt.*;

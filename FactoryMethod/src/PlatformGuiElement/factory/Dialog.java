@@ -1,6 +1,6 @@
-package crossPlatformGUI.factory;
+package PlatformGuiElement.factory;
 
-import crossPlatformGUI.buttons.Button;
+import PlatformGuiElement.buttons.Button;
 
 public abstract class Dialog {
     public void renderWindow() {

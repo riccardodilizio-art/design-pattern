@@ -1,4 +1,4 @@
-package crossPlatformGUI.buttons;
+package PlatformGuiElement.buttons;
 
 public class HTMLButton implements Button {
     @Override
