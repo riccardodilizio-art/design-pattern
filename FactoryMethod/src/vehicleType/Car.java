@@ -1,3 +1,5 @@
+package vehicleType;
+
 public class Car implements MotorVehicle{
     @Override
     public void build() {

@@ -1,3 +1,5 @@
+package vehicleType;
+
 public class Application {
 private static MotorVehicleFactory motorVehicleFactory;
 

@@ -1,3 +1,5 @@
+package vehicleType;
+
 public class CarFactory extends MotorVehicleFactory{
     @Override
     protected MotorVehicle createMotorVehicle() {

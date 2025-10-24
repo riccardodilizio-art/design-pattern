@@ -1,3 +1,5 @@
+package vehicleType;
+
 public abstract class MotorVehicleFactory {
     public MotorVehicle create(){
         MotorVehicle vehicle = createMotorVehicle();

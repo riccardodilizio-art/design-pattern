@@ -6,8 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethods/PlatformGUIElement/PlatformGUIElement.iml" filepath="$PROJECT_DIR$/FactoryMethods/PlatformGUIElement/PlatformGUIElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstractFactory/abstractFactory.iml" filepath="$PROJECT_DIR$/abstractFactory/abstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builder/builder.iml" filepath="$PROJECT_DIR$/builder/builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethods/PlatformGUIElement/src/src.iml" filepath="$PROJECT_DIR$/FactoryMethods/PlatformGUIElement/src/src.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/src/vehicle/vehicle.iml" filepath="$PROJECT_DIR$/FactoryMethod/src/vehicle/vehicle.iml" />
     </modules>
   </component>
 </project>
