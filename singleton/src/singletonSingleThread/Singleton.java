@@ -1,4 +1,4 @@
-package singleton;
+package singletonSingleThread;
 
 public class Singleton {
     private static Singleton instance;
